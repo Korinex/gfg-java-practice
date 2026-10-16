@@ -24,9 +24,9 @@
 
 | # | Date | Problem | Level | Tiny note | Status | Code |
 | :---: | :---: | --- | :---: | --- | :---: | :---: |
-| 01 | 15 Oct 2026 | [Start Coding](https://www.geeksforgeeks.org/problems/start-coding-1/1) | 🌼 Basic | A tiny hello to begin the journey | 🌱 next up | — |
-| 02 | 15 Oct 2026 | [Taking Input](https://www.geeksforgeeks.org/problems/taking-input/1) | 🌼 Basic | Strings, numbers, and a little floor magic | 🌱 next up | — |
-| 03 | 15 Oct 2026 | [While Loop](https://www.geeksforgeeks.org/problems/while-loop/1) | 🌼 Basic | Counting gently down to zero | 🌱 next up | — |
+| 01 | 15 Oct 2026 | [Start Coding](https://www.geeksforgeeks.org/problems/start-coding-1/1) | 🌼 Basic | A tiny hello to begin the journey | ✅ done | [Java](basic-programming/start-coding.java) |
+| 02 | 15 Oct 2026 | [Taking Input](https://www.geeksforgeeks.org/problems/taking-input/1) | 🌼 Basic | Strings, numbers, and a little floor magic | ✅ done | [Java](basic-programming/taking-input.java) |
+| 03 | 15 Oct 2026 | [While Loop](https://www.geeksforgeeks.org/problems/while-loop/1) | 🌼 Basic | Counting gently down to zero | ✅ done | [Java](basic-programming/while-loop.java) |
 
 > When a problem is accepted, it gets a home in its topic folder and a little `✅` here.
 
