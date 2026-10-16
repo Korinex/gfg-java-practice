@@ -18,7 +18,7 @@
 - **Language:** Java ☕
 - **Platform:** GeeksforGeeks
 - **Current chapter:** Basic Programming 🌱
-- **Soft goal:** 1–2 questions a day, with bonus sparkle for more ✨
+- **Soft goal:** 1–2 questions a day, 3-4 when i am feeling studious
 
 ## 📖 Problem Diary
 
